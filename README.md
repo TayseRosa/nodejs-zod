@@ -1,9 +1,8 @@
 <p align="center">
   <img src="https://brandslogos.com/wp-content/uploads/images/large/nodejs-logo.png" width="160">
 </p>
-<p align="center">
- NodeJS - Zod
-</p>
+<h1 align="center"> Projeto NodeJS - Zod </h1>
+
 
 <br>
 🚀 Desenvolvedora:
@@ -14,7 +13,6 @@ Tayse Rosa
 🟡 Status do projeto: Em andamento
 
 ---
-<h1 align="center"> Projeto NodeJS - Zod </h1>
 <p>Este projeto foi desenvolvido para praticar e consolidar os conhecimentos em Node.js, utilizando o zod.</p>
 
 ## 🛠️ Funcionalidades
