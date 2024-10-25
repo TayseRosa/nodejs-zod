@@ -14,7 +14,7 @@ Tayse Rosa
 🟡 Status do projeto: Em andamento
 
 ---
-<h1>Projeto NodeJS - Zod:</h1>
+<h1 align="center"> Projeto NodeJS - Zod </h1>
 <p>Este projeto foi desenvolvido para praticar e consolidar os conhecimentos em Node.js, utilizando o zod.</p>
 
 ## 🛠️ Funcionalidades
