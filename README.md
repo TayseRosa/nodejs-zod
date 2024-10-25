@@ -14,13 +14,10 @@ Tayse Rosa
 🟡 Status do projeto: Em andamento
 
 ---
-
-<h1>h1rojeto NodeJS - Zod:</h1>
+<h1>Projeto NodeJS - Zod:</h1>
 <p>Este projeto foi desenvolvido para praticar e consolidar os conhecimentos em Node.js, utilizando o zod.</p>
 
-
-<p>🛠️ Funcionalidades</p>
-
+## 🛠️ Funcionalidades
 <ul>
     <li>Configuração do servidor do zero com Node.js</li>
     <li>Criação de rotas no express para atender diferentes endpoints</li>
@@ -28,7 +25,7 @@ Tayse Rosa
     <li>Salvar os dados em arquivos txt</li>    
 </ul>
 
-<p>🚀 Tecnologias Utilizadas </p>
+## 🚀 Tecnologias Utilizadas
 <ul>
     <li>Node.js para a criação do servidor</li>
     <li>Express como framework de roteamento</li>
@@ -37,7 +34,8 @@ Tayse Rosa
 <br>
 
 <br>
-<h1>Configuração inicial do projeto</h1>
+
+## 🚀 Configuração inicial do projeto
 <p>Para configurar o projeto, basta seguir o passo abaixo:</p>
 
 ```
@@ -50,7 +48,7 @@ npm run zod
 ---
 <br>
 
-## :memo: Licença
+## Licença
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 
