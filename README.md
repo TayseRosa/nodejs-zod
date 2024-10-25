@@ -3,7 +3,7 @@
 </p>
 <h1 align="center"> Projeto NodeJS - Zod </h1>
 
-<p>Este projeto foi desenvolvido para praticar e consolidar os conhecimentos em Node.js, utilizando o zod.</p>
+<p align="center">Este projeto foi desenvolvido para praticar e consolidar os conhecimentos em Node.js, utilizando o zod.</p>
 
 <br>
 🚀 Desenvolvedora:
