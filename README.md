@@ -31,9 +31,6 @@ Tayse Rosa
     <li>Express como framework de roteamento</li>
     <li>Zod</li>
 </ul>
-<br>
-
-<br>
 
 ## 🚀 Configuração inicial do projeto
 <p>Para configurar o projeto, basta seguir o passo abaixo:</p>
@@ -45,8 +42,6 @@ npm i -D @types/node tsx typescript
 npm i zod
 npm run zod
 ```
----
-<br>
 
 ## Licença
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
