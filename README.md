@@ -27,7 +27,6 @@ Tayse Rosa
 ## 🚀 Tecnologias Utilizadas
 <ul>
     <li>Node.js para a criação do servidor</li>
-    <li>Express como framework de roteamento</li>
     <li>Zod</li>
 </ul>
 
@@ -40,6 +39,31 @@ npm i express helmet
 npm i -D @types/node tsx typescript
 npm i zod
 npm run zod
+```
+Testes de zod:
+No arquivo zod.ts:
+```
+import z from 'zod'
+
+const schema = z.object({
+    name:z.string().min(2),
+    email:z.string().email(),
+    age: z.number().min(18).max(120),
+    staus:z.boolean(),
+})
+
+//Cria um type.
+type User = z.infer<typeof schema>
+
+let data = {
+    name:'Tayse Rosa',
+    email:'tayse@email.com',
+    age:10
+}
+
+const result = schema.safeParse(data)
+console.log(result)
+
 ```
 
 ## Licença
